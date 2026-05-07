@@ -1,0 +1,34 @@
+# Flutter/Dart
+nusantara_quiz/.dart_tool/
+nusantara_quiz/.idea/
+nusantara_quiz/build/
+nusantara_quiz/.flutter-plugins
+nusantara_quiz/.flutter-plugins-dependencies
+nusantara_quiz/.packages
+nusantara_quiz/.pub-cache/
+nusantara_quiz/.pub/
+
+# Android
+nusantara_quiz/android/.gradle/
+nusantara_quiz/android/local.properties
+nusantara_quiz/android/app/build/
+
+# iOS
+nusantara_quiz/ios/Pods/
+nusantara_quiz/ios/.symlinks/
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PowerPoint temporary files
+~$*.pptx
+
+# Gemini AI
+.gemini/
